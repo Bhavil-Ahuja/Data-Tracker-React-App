@@ -1,0 +1,7 @@
+.data-item {
+    color: black;
+    border: 1px solid rgb(139, 131, 131);
+    margin: 10px 0;
+    width: 100%;
+    padding: 5px;
+}
