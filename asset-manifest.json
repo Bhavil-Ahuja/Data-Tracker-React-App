@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Data-Tracker-React-App/static/css/main.d0a671bf.css",
+    "main.js": "/Data-Tracker-React-App/static/js/main.15ef2008.js",
+    "index.html": "/Data-Tracker-React-App/index.html",
+    "main.d0a671bf.css.map": "/Data-Tracker-React-App/static/css/main.d0a671bf.css.map",
+    "main.15ef2008.js.map": "/Data-Tracker-React-App/static/js/main.15ef2008.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a671bf.css",
+    "static/js/main.15ef2008.js"
+  ]
+}
